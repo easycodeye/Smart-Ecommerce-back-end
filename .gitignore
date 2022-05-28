@@ -1,3 +1,4 @@
-.dl_env
+.env
 DL.code-workspace
 .git
+.senv
